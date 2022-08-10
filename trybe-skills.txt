@@ -3,3 +3,7 @@ O que eu vou aprender na Trybe:
 - Bash 
 - Git
 - Merge
+=======
+- HTML
+- CSS
+
