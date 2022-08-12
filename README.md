@@ -1,7 +1,7 @@
 # Trybe-exercicios
 
 
-Este repositÃ³rio contÃ©m todas as atividades de aprendizagem desenvolvidas por _[mim] (www.linkedin.com/in/bruhleal)_ durante a minja jornada na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim] (www.linkedin.com/in/bruhleal)_ durante a minha jornada na [Trybe](https://www.betrybe.com/) :rocket:
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdutório ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
