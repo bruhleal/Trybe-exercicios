@@ -1,0 +1,32 @@
+div:hover {
+    font-family: sans-serif;
+    border-radius: 5px;
+    margin: 1px;
+    color: white;
+    background-color: burlywood;
+}
+
+h3 {
+    font-style: italic;
+}
+
+div.primeiro {
+    color: red;
+}
+
+div.segundo {
+    color: purple;
+}
+
+div.terceira {
+    color: darkblue;
+    font-size: larger;
+}
+
+div.quarta {
+    color: gray;
+}
+
+div.quinta {
+    color: wheat;
+}
